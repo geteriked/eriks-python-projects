@@ -1,6 +1,6 @@
-### Erik's python projects
+### My python projects
 
-I'm geteriekd and here is my first GitHub repository, storing my beginner (for now?) python endeavours.
+I'm Erik and here is my first GitHub repository, storing my beginner (for now?) python endeavours.
 
 > feeling good!
 
